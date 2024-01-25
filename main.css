@@ -1,0 +1,12 @@
+header{
+    height: 250px;
+    background: red;
+    border-radius: 10px;
+}
+main{
+    min-height: 800px;
+}
+footer{
+    background: aqua;
+    height: 60px;
+}
